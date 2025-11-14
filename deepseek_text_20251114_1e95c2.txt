@@ -1,0 +1,7 @@
+AI-Search-Algorithms/
+│
+├── search_algorithms.py
+├── requirements.txt
+├── README.md
+└── .streamlit/
+    └── config.toml
