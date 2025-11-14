@@ -1,0 +1,4 @@
+your-repo-name/
+├── app.py                 # The Streamlit code (below)
+├── requirements.txt       # Just one line: streamlit
+└── README.md             # Optional, but good for rubric (include graph description)
